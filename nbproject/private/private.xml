@@ -3,8 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+<<<<<<< HEAD
             <file>file:/C:/Users/MARIO%20PÉREZ/Documents/UMG/NOVENO%20CICLO/INTELIGENCIA%20ARTIFICIAL/PROYECTO%20FINAL/Tres_en_Linea/src/tres_en_linea/Tres_en_Linea.java</file>
             <file>file:/C:/Users/MARIO%20PÉREZ/Documents/UMG/NOVENO%20CICLO/INTELIGENCIA%20ARTIFICIAL/PROYECTO%20FINAL/Tres_en_Linea/src/tres_en_linea/JUGADORYMAQUINA.java</file>
+=======
+            <file>file:/C:/Users/MARIO%20PÉREZ/Documents/UMG/NOVENO%20CICLO/INTELIGENCIA%20ARTIFICIAL/PROYECTO%20FINAL/Juego/ProyectoIA/src/proyectoia/JUGADOR_vs_MAQUINA.java</file>
+            <file>file:/C:/Users/MARIO%20PÉREZ/Documents/UMG/NOVENO%20CICLO/INTELIGENCIA%20ARTIFICIAL/PROYECTO%20FINAL/Juego/ProyectoIA/src/proyectoia/ProyectoIA.java</file>
+>>>>>>> ae463c25ff077477049f9aa68c21339bd633e59c
         </group>
     </open-files>
 </project-private>
