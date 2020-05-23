@@ -3,20 +3,19 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Tres_en_Linea;
+package tres_en_linea;
 
 /**
  *
- * @author nefta
+ * @author MARIO PÉREZ
  */
-public class Principal {
+public class Tres_en_Linea {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
     }
     
 }
