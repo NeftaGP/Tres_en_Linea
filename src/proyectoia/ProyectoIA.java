@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package tres_linea;
+package proyectoia;
 
 /**
  *
  * @author MARIO PÉREZ
  */
-public class Tres_Linea {
+public class ProyectoIA {
 
     /**
      * @param args the command line arguments
